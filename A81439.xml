@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue, containing a compendious discourse concerning the present designe in the West-Indies. Wherein is demonstrated the lawfulness, or rather necessity of that war, with the unquestionable hopefulness of good success therein. Notwithstanding the obscenity of disaffected and non-experienced persons.</title>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81439</idno><idno type="EEBO-CITATION">99868537</idno>
+  <idno type="VID">170167</idno>
+  <idno type="EEBO-PROQUEST">2240954988</idno>
+  
+            <idno type="STC">Wing D1364</idno>
+            <idno type="STC">Thomason E1619_2</idno>
+            <idno type="STC">ESTC R209671</idno>
+            <idno type="PROQUEST">99868537</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868537e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170167)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 204:E1619[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue, containing a compendious discourse concerning the present designe in the West-Indies. Wherein is demonstrated the lawfulness, or rather necessity of that war, with the unquestionable hopefulness of good success therein. Notwithstanding the obscenity of disaffected and non-experienced persons.</title>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lownds, at the White Lyon in S. Paul's Church-yard, neer the west end,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">West Indies --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170167:1"/>
+            <p>A DIALOGUE, Containing a Compendi<g ref="char:EOLhyphen"/>ous Discourse concerning the Present Designe in the <hi>West-Indies.</hi>
+            </p>
+            <p>Wherein is Demonstrated the Lawfulness, or rather Necessity of that War, with the unquestionable hopefulness of good success therein.</p>
+            <p>Notwithstanding the obscenity of dis<g ref="char:EOLhyphen"/>affected and non-experienced persons.</p>
+            <q>
+               <bibl>
+                  <hi>JEREM. 51.31.</hi>
+               </bibl>
+               <p>One Post shall run to meet another, and one mes<g ref="char:EOLhyphen"/>senger to meet another, to shew the King of Babylon his City is taken at one end.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Lownds,</hi> at the White Lyon in S. <hi>Paul</hi>'s Church-yard, neer the West end, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170167:2"/>
+            <pb n="1" facs="tcp:170167:2"/>
+            <head>
+               <hi>A DIALOGUE,</hi> Comprehending the substance of a Dis<g ref="char:EOLhyphen"/>course concerning the present Design in the <hi>West-Indies.</hi>
+            </head>
+            <sp>
+               <speaker>Souldier.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>ELL met Sir, I rejoyce to see you, hoping you are in good health.</p>
+            </sp>
+            <sp>
+               <speaker>Sea-man.</speaker>
+               <p>
+                  <hi>Sir, I thank you for your curteous salute, I am (through mercy) in health at present, I praise the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soldier.</speaker>
+               <p>I have for some time much desired not only to see you, but also to have some conference with you. And having now so happily met, I desire (if your occasions will permit) that at this time my desires may be accomplished herein.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:170167:3"/>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>My occasions however (at present) of concernment, shall give way to your desires; ac<g ref="char:EOLhyphen"/>counting it happiness that I may be honoured with your company and discourse, which I doubt not will be advantagious to me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Sir, The subject of the Discourse which I desire may be insisted on, relates to the Designe now on foot against the Span<g ref="char:EOLhyphen"/>jards in the <hi>West Indies,</hi> which is now indeed the discourse of the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, As to that, I have much cause to be<g ref="char:EOLhyphen"/>lieve you are satisfied in your self in all particu<g ref="char:EOLhyphen"/>lars; and the rather, because you are daylie conversant with those that principally carries on the business; whose Principl's you are so well acquainted with, that their very owning the bu<g ref="char:EOLhyphen"/>siness is satisfactory.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Sir, That they are satisfied in them<g ref="char:EOLhyphen"/>selves, is out of question with me; but truly (at present) in my self there remains some scruples which I desire to be satisfied in, and the rather, because (being a Soldier) I am as subject to be drawn forth to that service as any other.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I do in these particulars desire to be excused, being not so endowed with those facul<g ref="char:EOLhyphen"/>ties of perswasive arguments as ene ought to be fitted with, that takes upon him to resolve the doubts of another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:170167:3"/>
+               <speaker>Sold.</speaker>
+               <p>Sir, That which I desire of you is, only your own thoughts of the Designe, and whether you judge it a lawful Design or not.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I shall crave one favour of you (be<g ref="char:EOLhyphen"/>fore I say any thing by way of answer) the which if you please to grant me, it will produce at least my thankfulness, and peradventure some part of satisfaction to you as to the matter in hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Sir, I shall very freely comply with your desire, if it lie in my power; and there<g ref="char:EOLhyphen"/>fore what you defire to say, please to be very free in it, for be what it will, it shall give me no offence.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, Your curtesie obliges me in bonds of thankfulness, and emboldens me to proceed to put this question to you, in regard you have been deeply engaged in the late wars of this Nation. I pray Sir, from whence did the lawfulness of that war proceed, and what did the lawfulness there<g ref="char:EOLhyphen"/>of consist of principally?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold</speaker>
+               <p>Sir, The lawfulness of that war con<g ref="char:EOLhyphen"/>sisted of divers particulars. Thus, <hi>viz.</hi> the Lord was pleased to cause spiritual light to break forth in the midst of darkness, and the Sun of Righteousness began to appear above our Horizon, and to have its reflection upon the Sons and Daughters of the most high God, who spake forth as they were taught by the
+<pb n="4" facs="tcp:170167:4"/>Spirit, and began to publish the glad tydings of the Gospel; this morning of our resurre<g ref="char:EOLhyphen"/>ction from our former condition of blindness and darkness, began to be clouded, and the Clergie begun to heighten their persecution, and to imprison and stigmatize the messen<g ref="char:EOLhyphen"/>gers of Christ, and by all possible means en<g ref="char:EOLhyphen"/>deavour'd to put out the candle of the Gospel amongst us, and to light the stinking snuffs of Popery, and to enflame us both in things re<g ref="char:EOLhyphen"/>lating to the inward and outward man; la<g ref="char:EOLhyphen"/>bouring with all the power and might they could, to deprive us of that glorious light then breaking forth amongst us; and blotting out those precious truths of Christ which many souls have in former ages sealed to with their blood, endeavouring to destroy our precious souls, by betraying us into the hands of those murderers and massacrers of the Lords peo<g ref="char:EOLhyphen"/>ple, <hi>i. e.</hi> the Papal faction; whose malicious out<g ref="char:EOLhyphen"/>rage against us, this, (as also former ages) have had large experience of. Now seeing the life of our precious souls, and the lives and liber<g ref="char:EOLhyphen"/>ties of our Birth-rights are at the stake, and fire and fagot in abundance, ready to consume all. The Lord giving us hearts and hands (with an opportunity) to appear in our own de<g ref="char:EOLhyphen"/>fence. We have so done, and in the strength
+<pb n="5" facs="tcp:170167:4"/>of the Lord, have also prevailed as at this day.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I hope you understand me thus,</hi> viz. <hi>that at first, I questioned not the lawfulness of that War, but onely desired the grounds of it, which you have effectually given me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I observe you put the question to me; not whether the said War was law<g ref="char:EOLhyphen"/>ful or no: but rather where its lawfulness did consist.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I did so, and you have so cleerly satisfied me, that I apprehend the glory of Christ, and advancement of his Kingdome, the propa<g ref="char:EOLhyphen"/>gating of the Gospel, the liberty of the Saints, and also National priviledges, which were all ready to be distroyed, were the only grounds of your Ingagements: and such infallible grounds as the Lord hath crowned with such event, as his peoples Christian Priviledges are preserved, and the Gospel hath free passage; which is a mercy we have now so long enjoyed that (I fear) it is not prized to its worth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>We have all cause to bewail our in<g ref="char:EOLhyphen"/>gratitude on that account.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, Now I shall come to give you my thoughts and my reasons for them thus: Is the advancement of the Kingdom of Christ a thing so considerable, as to move one Englishman to
+<pb n="6" facs="tcp:170167:5"/>sheath his Sword in the Bowels of another: nay, in the bowels of a brother? Is the enjoyment of this glorious Liberty, so sweet, so excellent, that life it self is nothing in comparison of it? Are those soul-ravishing loves of Christ, so esteemable, so excellent, so sweet so glorious, that they will make a</hi> Paul <hi>and</hi> Silas <hi>sing in a prison, Mar<g ref="char:EOLhyphen"/>tyrs rejoyce in burning flames? Is this light glorious, and the blackness of darkness, terri<g ref="char:EOLhyphen"/>ble? sure these things are so; yea they are so ex<g ref="char:EOLhyphen"/>cellently glorious, that we by and in the enjoy<g ref="char:EOLhyphen"/>ment of them, stand engaged in the highest Na<g ref="char:EOLhyphen"/>ture, to be friends to Christs friends, and ene<g ref="char:EOLhyphen"/>mies to his enemies, to the utmost of our powers, not omitting any opportunity, by which the pow<g ref="char:EOLhyphen"/>ers of Antichrist may be weakened The Lord hath strengthened us in the appearings of our selves in our own behalves, and doubtless will appear yet for us, if in sincerity of heart, we do lay out our selves for, and on the behalf of Christ and his People, who yet are under the Egyptian Yoke of Bondage, from under which the Lord hath delivered us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, this you have said is truth, and is a very suitable Introduction, to what I sup<g ref="char:EOLhyphen"/>pose you have yet to say, as to this discourse now depending: therefore I pray pro<g ref="char:EOLhyphen"/>ceed.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:170167:5"/>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I shall now proceed to give you the particulars of my judgement, as to the question you have propounded; And first thus. 'Tie clear to me that the late War (in this Nation) was not an accidental War (as some seem to judge it:) But the absolute appearances of God (by his spirit in his People) against the powers of the world, which are Antichristian. Now if it be lawful for the spirit to war against the flesh (which is granted of all) then it must be so in the general, as wel berwixt people of several Nations, as betwixt the people of one Nation, one against another.</hi>
+               </p>
+               <p>
+                  <hi>So that if it be lawful for the spirit in a man to war against the flesh of that man, and the people of a Nation to war against the people of the same Nation; being of an Antichristi<g ref="char:EOLhyphen"/>an spirit (as is already granted) and Scripture it self bears testimony to it.</hi>
+               </p>
+               <p>
+                  <hi>Then undoubtedly for us, a people in cove<g ref="char:EOLhyphen"/>nant with the Lord, it must needs be lawful for us, nay a duty incumbent upon us, to mani<g ref="char:EOLhyphen"/>fest our selves enemies to the publique and pro<g ref="char:EOLhyphen"/>fest enemies of the Lord and his people.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol</speaker>
+               <p>Sir as to these particulars of the con<g ref="char:EOLhyphen"/>stant warfare of the spirit against the flesh: and it against the spirit, and the lawfulness thereof, they are things generally received
+<pb n="8" facs="tcp:170167:6"/>amongst, and believed of all that have any appearings or breathings of God in them, and therefore we judge what you have said, granted of all.</p>
+               <p>And do desire you will proceed to more particular application of your discourse to the cleering up of the lawfulness of the pre<g ref="char:EOLhyphen"/>sent War with <hi>Spain,</hi> so as it is now begun.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, 'Tis granted, that the Lord hath wonderfully appeared in</hi> England, <hi>and for</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>having brought us out of darkness into light, and from the power of Satan unto God; having brought down the Mighty from their Seats, and exalted whom he pleased.</hi>
+               </p>
+               <p>
+                  <hi>And truly it is very clear from Scripture, that this work begun in this Nation, shall go forth from Nation to Nation, till all the Nati<g ref="char:EOLhyphen"/>ons of the Earth have tasted of this Cup,</hi> Jer. 25. <hi>Now the contest is, light swallowing up of dark<g ref="char:EOLhyphen"/>ness. The spirit and power of Christ overturn<g ref="char:EOLhyphen"/>ing and destroying the spirit and powers of An<g ref="char:EOLhyphen"/>tichrist; which work being now begun, shall (though seemingly at a stand) how ever not de<g ref="char:EOLhyphen"/>sist till the design of Christ is accomplished, and his Name and his Glory one in all Lands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, your discourse relates to a spiri<g ref="char:EOLhyphen"/>tual work, which the Lord hath to carry on in the souls of the sons of men, mistically by
+<pb n="9" facs="tcp:170167:6"/>his spirit, which we generally apprehend not to be a work of the sword, but of the spirit and word preached, for we do not under<g ref="char:EOLhyphen"/>stand the Kingdome of Christ any other then his Indwelling presence in the soul of man, with its gifts and graces, which are the fruits thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, we shall leave this discourse you hint at: as not bring that subject in hand: And fearing time will out-strip me, I shall one<g ref="char:EOLhyphen"/>ly desire you to read and meditate (at your best leisure) these ensuing Scriptures,</hi> Jer. 25.15, 16, to the 34. Isai. 66.15.16. Isai. 63.6, 7. Isai. 14.21. to 28. Jer. 23.19, 20, &amp;c.</p>
+               <p>
+                  <hi>Whilst we proceed to a close of my Answer to your question, which I shall infer from your own words thus,</hi> viz.</p>
+               <p>
+                  <hi>You have granted that your first ground of ingagement in</hi> England, <hi>was for and on the be<g ref="char:EOLhyphen"/>half of Christ and the Gospel; To throw down Antichrist and his Adherents and (instrumon<g ref="char:EOLhyphen"/>tally) to make way for the free passage of the Gospel in this Nation, which through mercy is attained to in a large measure.</hi>
+               </p>
+               <p>
+                  <hi>Now I shall with all humility, use the words of our Saviour to</hi> Peter. When thou art con<g ref="char:EOLhyphen"/>verted strengthen thy Brethren: Peters <hi>con<g ref="char:EOLhyphen"/>version was not onely for himself. Now is
+<pb n="10" facs="tcp:170167:7"/>Englands Conversion and Inlargement only for its self?</hi>
+               </p>
+               <p>
+                  <hi>Hath Christ appeared (as we said at first) in</hi> England, <hi>by the Word, Spirit and Sword, and will he not yet appear for, and with</hi> England, <hi>if they engage for and on his behalf, against the powers of darkness, now reigning in other Nati<g ref="char:EOLhyphen"/>ons?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir. I pray please to come to the life of the discourse, and close your Answer as briefly as conveniencie will permit, for my spirits are on fire to hear more of this, to the purpose you seem to aym at.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, you will please to remember, it's granted that it's lawful for the people of God to ingage against the enemies of his glory.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, that was granted at the first, but how this will lead us to the breach of peace, with a neighbour Nation, I long to have cleered.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I shall proceed thus, bearing still in mind what is granted me,</hi> viz. <hi>The grounds of Englands <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rst War, and what hath bin hint<g ref="char:EOLhyphen"/>ed as to that. Greater enemies to the Lord Jesus his truths and people, is not in the world, then the Pople, (that man of sin) and his Adhe<g ref="char:EOLhyphen"/>rents are, who sits in the very Seat of Christ, and takes upon him the very Office of Christ;
+<pb n="11" facs="tcp:170167:7"/>exalting himself against (yea above) all that is called God, or that is worshipped; issuing forth indulgencies, for any manner of fact committed against the Laws of Christ upon his own terms, and for his own private and sinister ends, forbid<g ref="char:EOLhyphen"/>ding the use of Scripture, and valuing the miste<g ref="char:EOLhyphen"/>ries of God with Jesuitical fomentations, and false Doctrines of Livels, by which means thou<g ref="char:EOLhyphen"/>sands of poor souls are (spiritually) mur<g ref="char:EOLhyphen"/>thered, and sent headlong into eternal darkness, whose blood (with the bloed of Saints) both in their degrees, cries for vengeance to be executed upon their betrayers and murtherers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, As to the Pope, 'tis granted, he is that man of sin, and son of perdition, which the Lord hath threatened to destroy, and whose utter ruine and desolation hasteneth; but what relation hath this to the lawfulness of a War with <hi>Spain?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, If the Pope must fall, then the Pil<g ref="char:EOLhyphen"/>lars or main Supporters on which his power standeth must be first removed: And if so, then</hi> Spain <hi>must first be aymed at, who is his Right Hand; for he, and he onely,</hi> viz. <hi>the</hi> Spaniard <hi>maintains that bloody Inquisition, that crimson Gulph, in which thousands of poor souls are (on all occasons) secretly swallowed up, and sent to their Beds of darkness: That
+<pb n="12" facs="tcp:170167:8"/>cursed Court upholds the Man of sin, forcing men to live in darknesse and ignorance, which they blasphemously call the mother of devotion; by whose power and cruelty the people of God li<g ref="char:EOLhyphen"/>ving in or neer their Territories, are persecu<g ref="char:EOLhyphen"/>ted, afflicted, and tormented, even as at this day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, this being granted, how will it appear that this way we have taken will bee the best way to bring down the enemies of the Lord, and work the deliverance of his people in captivity under them, seeing the place is far remote?</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, though the place be remote, as to distance of place, yet its nigh as to the businesse depending. The Spaniard we have hinted is the Popes supporter, and the Treasure of the West-India's is the Spaniards strength. These Silver Sinews, and Golden Nerves, are the strength of the Man of sin; as to his external part, which to destroy is (instrumentally) the work of the Sword: Cut but in twain that Sil<g ref="char:EOLhyphen"/>ver thread, and</hi> Babels <hi>brats will murther one another; stop but the current of this Silver stream, and they all die with thirst</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, you do much satisfie mee with your discourse. But I pray illustrate your thoughts in this business more unto me; you
+<pb n="13" facs="tcp:170167:8"/>seem to smother something which might give me much light in this business.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I told you at the first, that I would not meddle with any perswasive Arguments to convince others. But onely tell you my own thoughts in this thing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I expect no other but your own thoughts of it, and to that end I apprehend all your discourse tends; and no other ways; therefore I pray proceed further in this dis<g ref="char:EOLhyphen"/>course.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I shall state</hi> England <hi>(now) in the capacity of</hi> Israel, <hi>upon the Borders of</hi> Ca<g ref="char:EOLhyphen"/>naan, <hi>lately brought out of Egyptian Bondage, They are entred the Land, and the Walls of</hi> Je<g ref="char:EOLhyphen"/>richo, <hi>are fallen by Faith, they have got foot<g ref="char:EOLhyphen"/>ing and what must now be done. They must proceed according to command, to destroy the Inhabitants of that Land which God hath pro<g ref="char:EOLhyphen"/>mised to give them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I apprehend your discourse, and what you aim at; but we have not prosper<g ref="char:EOLhyphen"/>ed in this thing, 'tis said the hearts of our men are taken away, and a handfull of the enemy hath put our Army to flight, and di<g ref="char:EOLhyphen"/>vers of them to the sword, and this causeth many to think the Lord doth not own the work.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:170167:9"/>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, you speak to the purpose, there are many indeed scruple much at this. But pray let us take notice of the condition we have sta<g ref="char:EOLhyphen"/>ted</hi> England <hi>in, and I am of the mind there will much satisfaction flow from it:</hi> England <hi>is sta<g ref="char:EOLhyphen"/>ted in the capacity of</hi> Israel, <hi>entred</hi> Canaan, <hi>and</hi> Jericho <hi>is destroyed by Faith, which opened the way,</hi> Josh. 6.20. <hi>Now the next place</hi> Israel <hi>is to take in, is the City of</hi> Ai: Joshuah <hi>sends Spies to discover the City, who return, and tell him the people are but few, send up part of the Army to take it, for the Body need not go:</hi> Joshuah <hi>sends, but his men are put to flight be<g ref="char:EOLhyphen"/>fore the men of</hi> Ai, <hi>and some of them are slain: what is the matter now? pray what course takes</hi> Joshuah? <hi>doth he cry out the design is unlaw<g ref="char:EOLhyphen"/>full? No he makes his addresse to the Lord, as a Saint and Souldier indeed. And pray what answer doth the Lord give him?</hi> viz. <hi>Get thee up, wherefore liest thou thus upon thy face,</hi> Israel <hi>hath sinned, they have medled with the accursed thing: There's the matter. Here was no unlawfulnesse in the design, but unlawfull things done in the managing of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, pray what do you infer from hence, <hi>Israel</hi> was entred the Land of <hi>Cana<g ref="char:EOLhyphen"/>an,</hi> and had Commission to destroy the In<g ref="char:EOLhyphen"/>habitants and to possesse their Land. But
+<pb n="15" facs="tcp:170167:9"/>
+                  <hi>England</hi> though it hath prospered in matters at home, doth not so begin to prosper abroad; the reason may be for want of a Commissi<g ref="char:EOLhyphen"/>on from God, which all those ought to have that take upon them to shed bloud. And though we had Commission to do what wee did at home, yet it is questionable whether wee have a just call to do what wee do abroad.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I though it had been granted from what hath been said. However (as I told you at first</hi> it is clear to me this design is just, and God will no doubt own it, when ma<g ref="char:EOLhyphen"/>naged according to his own way.}</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, pray what do you think might be the obstruction that our Forces fared no better?</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Truly Sir, I shall not terminate the businesse: Onely my thoughts tell me it is pos<g ref="char:EOLhyphen"/>sible there might bee some</hi> Achan <hi>amongst them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, how could that be, seeing none of them had had any opportunity to possesse themselves of any Plunder from the Ene<g ref="char:EOLhyphen"/>my.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, though it was not in the hand, it is possible that is might be in the heart of some, (thats worse,) The hands if defiled may bee
+<pb n="16" facs="tcp:170167:10"/>washed with Water. The heart not without Bloud. If we put our hand to the Plough wee must not look back.</hi>
+               </p>
+               <p>
+                  <hi>The design is the Lords though carried on by Man. It is therefore of concernment to those that are or shall bee imployed in it, to bee single hearted. And go forth to it as the Lords work (principally) and Mans but seconda<g ref="char:EOLhyphen"/>rily: to answer you more particularly; it was not the Plunder of</hi> Ai, <hi>that was</hi> Israels <hi>cause of flight, for</hi> Ai <hi>was not taken: But it was the sin of one</hi> Achan <hi>for a fact guilty of before that attempt was made.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I perceive its very clear to you, that this War is lawful, but this exceeding bad successe, doth yet stumble mee very much.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, I have given you one instance al<g ref="char:EOLhyphen"/>ready in the businesse of</hi> Achan, <hi>please to take another which you shall find recorded in that</hi> 20. <hi>of</hi> Judges, <hi>where</hi> Israel <hi>is twice overcome of the Benjamites. And pray what did they do? cry out the design was unlawfull (no) they make their addresses to the Lord, who the third time gave</hi> Benjamin <hi>into</hi> Israels <hi>hands.</hi>
+               </p>
+               <p>
+                  <hi>Besides if wee call to mind tha late Warres amongst our selves, and consider how oft wee were but in a low condition. And had we then
+<pb n="17" facs="tcp:170167:10"/>sate dewn and cried the design is unlawfull where had the glorious liberty of the Saints then been? where had Gospel priviledges been which once were prized above life? Please to call to mind, the business of</hi> Dunbar <hi>(in Scotland) what capacity was our Army then in (as to the Arms of flesh) was there not some cause for us to fear the design was unlawful? The late dispute with the</hi> Dutch, <hi>may be al<g ref="char:EOLhyphen"/>most worth our minding; how highly was that insulting enemy elevated? how did he boast himself in his own strength; and what if then we had cry'd out the designe is unlawful, and had desisted to use the means: Sure ere this time we had all spoke perfect</hi> Dutch.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, You have Coted Scripture, and stated <hi>England</hi> in the capacity of the <hi>Isra<g ref="char:EOLhyphen"/>lites:</hi> But it seems to me, our commission from that Parrallel'd condition of theirs, with ours, is different, for they were absolutely commanded to destroy the Inhabitants of the Land of <hi>Canaan;</hi> to the end they might peaceably enjoy that good Land, as God had promised: Now so far we have done in our own Dominions and Territories; all is brought under subjection, either willingly or by constraint:</p>
+               <p>But whether we may go out of our own
+<pb n="18" facs="tcp:170167:11"/>limits or not, may be questioned.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, As to Wars abroad I say thus, (Stating</hi> England <hi>with</hi> Israel) <hi>as formerly is said.</hi>
+               </p>
+               <p>
+                  <hi>Please to peruse (at your leisure) that twentieth of</hi> Deuteronomy, <hi>and there you shall find Laws and Rules for</hi> Israel <hi>to observe in their War with people that were not of the Cities of those Nations,</hi> vers. 25. <hi>for a desti<g ref="char:EOLhyphen"/>tute people, there was a destitute Law, contra<g ref="char:EOLhyphen"/>ry to the other:</hi>
+               </p>
+               <p>
+                  <hi>Which Law warranted</hi> Israel <hi>to war with any Nation or Nations, that were their ene<g ref="char:EOLhyphen"/>mies: And undoubtedly will warrant us to wage War with any Nation that is our enemy, which</hi> Spain <hi>is to the utmost, in intent, though other ways pretended in the Complement.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I perceive you are very cleer in this thing, and free in your spirit for the lawfulness of it; you have also quoted Scrip<g ref="char:EOLhyphen"/>ture, which tends to the purpose; so that it appears its cleer to you, that the design is of God.</p>
+               <p>Now I pray you what think you of it in a way of humane sence, by Law of Nations; is there not something of inconveniency in it as to that.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Truly Sir, I am no States man, nor
+<pb n="19" facs="tcp:170167:11"/>the least part of a Polititian; 'tis my custome onely to examine things so far as may tend to my own satisfaction, which I have already done, as to this thing; and therefore do desire your excuse at this time, for truly occasion begin to call me hence; therefore pray have me ex<g ref="char:EOLhyphen"/>cused.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I pray let me crave your patience a little, you shall command as great a favour at my hands, if it lye in my power: There<g ref="char:EOLhyphen"/>fore I pray you a word in Answer to this last Question.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, what I shall say as to this, is on<g ref="char:EOLhyphen"/>ly thus much,</hi> viz.</p>
+               <p>
+                  <hi>We are a people that call upon the Name of the Lord, and pretend (I hope more) the advance<g ref="char:EOLhyphen"/>ment of the Kingdom of Grace; and do, or ought at least to indeavour, the assistance of our distressed brethren in other parts, who dwel in the desarts of Egyptian darkness, though we are in the Land of</hi> Goshen; <hi>We are also a people, really despised of all this are round about us. The rather because we have puld down that Horn of Kingly pride, so much ado<g ref="char:EOLhyphen"/>red amongst the Nations: There is also a spi<g ref="char:EOLhyphen"/>rit of division crept in amongst us; and the Sword must keep the Peace, or we shall destroy one another: And it concerns the Eyes of this
+<pb n="20" facs="tcp:170167:12"/>Nation to look about them, and their hands to be active for their own defence; for certainly, certainly, evil determined of the Nations: We must indeavour to weaken the powers of An<g ref="char:EOLhyphen"/>tichrist, or they will destroy us. God hath cho<g ref="char:EOLhyphen"/>sen us for a people to serve him in spirit and in truth; If we do so, he will own us: If we do become</hi> Laodeceans, <hi>he will spue us out of his mouth: yea a fearful spuing will come upon our glory: As to State matters, I leave them to those persons of State, whom they more imme<g ref="char:EOLhyphen"/>diately concern, desiring the keeper of</hi> Israel, <hi>may watch over them for good, that the people may call them blessed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I perceive you are not free to give your judgment as to things that relate to humane policy: I shall gather your mind from what hath been said; and do desire (in regard I perceive you have been in the <hi>Indi<g ref="char:EOLhyphen"/>aes</hi>) you will give me some light of the na<g ref="char:EOLhyphen"/>ture of it, and how you think it may agree with constitutions that have been constantly in cold Countries.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, Experience tells me that Tempe<g ref="char:EOLhyphen"/>rance is (next to God) health's preserver in those parts: the Country being very pleasant and desireable: And the hardships a Souldier meets withall, there very facil to be born, in regard
+<pb n="21" facs="tcp:170167:12"/>of the continual warmth: As to long Marches you need not question good Quarters upon your way, the Fouls of divers sorts, will make you musick all the day, and sup you at night; only you must be prudent in furnishing your self with water, upon all occasions, which you will sind enough of, flowing from betwixt the silvered Hills; and of all sorts of varieties of other pro<g ref="char:EOLhyphen"/>visions you will not lack: Its not to inhabit a Wilderness, but rather a Canaan that they go to, that go thither.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, but I am informed, that some are sickly, and others dye by reason of the extremity of the heat in those parts.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Truly Sir, some are sickly and some dye in</hi> London, <hi>in</hi> England, <hi>in all parts; our lives and he alths is in the hands of the Lord: And</hi> India <hi>is as</hi> England, <hi>if God so please to order it: so I have found it, and so I hope to find it, if my lot fall in that ground.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I am informed that the Souldery are in danger to go through many hardships there, and that service will be very hard.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, they that tell you so, will do well to deep them out of harms way: I pray tell me wherein the hardship of service consists, 'tis pro<g ref="char:EOLhyphen"/>bable I may mistake, or may have for got some few former experiences which once (in part) I have had.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:170167:13"/>
+               <speaker>Sol.</speaker>
+               <p>Sir, the hardship of a Souldiers ser<g ref="char:EOLhyphen"/>vice, is commonly hard fare, long and hard (or fast) marchings, wet, and cold and thirst, and the like.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, as to fare, you cannot want it there, if Prudent and Provident to provide on all opportunities. And as to long Marches they may be prevented, there being few or no places much Inland, that we shall fall upon, till wee are better acquainted then now we are.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, but I have been informed, that most of the Spanish inhabited places are very strong to the Sea-ward, and therefore not safe to land Forces in the Front of them, but rather to land at a distance, and to march upon them, where they are weakest, and that it seems is Land-ward.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, Ʋnder favour, you will find such Marches as you speak of, attended with some difficulties, by reason of the Country its being so Wooddy, they may fall Trees in your way, and stop all your Passes, and after some dayes march may prevent your enterprize.</hi>
+               </p>
+               <p>
+                  <hi>What is the matter I pray you, can we not face Frontiers, and look in the mouths of Can<g ref="char:EOLhyphen"/>non as well abroad as at home: But grant wee do march, it is but observing times, and march<g ref="char:EOLhyphen"/>ing moderately; as also having a care that the
+<pb n="23" facs="tcp:170167:13"/>Dust of the Gold get not into our Throats (by vertue of a conceit) and cause a greater thirst then our proportion of Water will satisfie. As to wet and cold, they are strangers; cold ever, wet for the greatest part; for which provision is made.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I perceive you are very much for this design, and truly you have so satisfied me, that I professe if I am thereunto called, I shall (in the strength of the Lord) with much freedome of spirit, and cheerfulnesse of mind proceed; not doubting but the pre<g ref="char:EOLhyphen"/>sence of the Lord will bee with us for out good.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, It is indeed very clear to me, up<g ref="char:EOLhyphen"/>on very serious Consideration, that this design is of God, and for God, and he will appear in it. However this demur came, it is very unsafe to place self in the Van, when wee go about the work of the Lord, nor to trust in the Arm of Flesh: I should not wish any man to go in com<g ref="char:EOLhyphen"/>mand on this design, except he is perswaded his call is from the Lord; it is good for every man to be perswaded in his own heart; much more might be said, but time will not permit.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I pray you give me leave to ask you but this one question, and so I shal desist from further detaining you at this time.</p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:170167:14"/>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, pray speak your mind, and I shall deal plainly and faithfully with you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Would you be as free in your motion and action upon this design, as you are in expression, if called thereunto?</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Certainly Sir I should, if my heart de<g ref="char:EOLhyphen"/>ceive me not above measure, I should be loath to invite others to that I should be backward in my self: the demur that some suppose is an ob<g ref="char:EOLhyphen"/>stacle in the way, is rather incouragement to me, and will to you and others if you please but to weigh all things seriously.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I shall now return you thanks for your forwardnesse in answering my desires, and for that you have been pleased to give me some account of the Country, which doth very much satisfie me, so that I shall not one<g ref="char:EOLhyphen"/>ly deny to give credit to those, that would place Mountains in the place of Mole-hills; but shall freely adventure my self in this service if called to it (as is already said.)</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, what I have said as to the lawfull<g ref="char:EOLhyphen"/>nesse of the design, is onely my own thoughts, and what is said as to the Country, is my own knowledge; it is delivered but abruptly and to<g ref="char:EOLhyphen"/>tally without any thing save plainnesse of speach, and reallity of truth.</hi>
+               </p>
+               <p>
+                  <hi>If any part of it may tend to your satisfacti<g ref="char:EOLhyphen"/>on
+<pb n="25" facs="tcp:170167:14"/>on (either in the one or the other) I shal much rejoyce, and shall continually wish you and all other the real Souldiers and Servants of the Lord, all happinesse in this life, and that to come.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, I thank you, wishing the most high may both shape and steer your course for you, during your saying through this troublesome and tempestuous Ocean. And bring you to the Heaven of eternal rest, where our work will bee praising of God to all Eternity.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>Sir, with many thanks for you sweet society and acceptance of my weak thought and expressions, I wish you everlasting happinesse in the Lord,</hi>
+               </p>
+               <p>And so Sir, the Lord be with you.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Sir, the Lord keep you and give us a<g ref="char:EOLhyphen"/>nother happy meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Sea.</speaker>
+               <p>
+                  <hi>I heartily with the same.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>VALE.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
